@@ -1,0 +1,9 @@
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/twitterfeed/aggregation/Aggregator.java
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/twitterfeed/aggregation/WeeklyAggregator.java
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/twitterfeed/Response.java
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/twitterfeed/Analyzer.java
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/rest/Service.java
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/twitterfeed/aggregation/AggregatorFactory.java
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/twitterfeed/Entity.java
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/twitterfeed/aggregation/NHourlyAggregator.java
+/Users/cumulus/Documents/workspace/TwitterAnalyzer/src/main/java/com/mycompany/twitterfeed/DataFeed.java

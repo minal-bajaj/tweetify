@@ -1,0 +1,10 @@
+com/mycompany/twitterfeed/Entity$Tweets.class
+com/mycompany/twitterfeed/Entity.class
+com/mycompany/rest/Service.class
+com/mycompany/twitterfeed/aggregation/NHourlyAggregator.class
+com/mycompany/twitterfeed/DataFeed.class
+com/mycompany/twitterfeed/Analyzer.class
+com/mycompany/twitterfeed/aggregation/WeeklyAggregator.class
+com/mycompany/twitterfeed/aggregation/AggregatorFactory.class
+com/mycompany/twitterfeed/Response.class
+com/mycompany/twitterfeed/aggregation/Aggregator.class
