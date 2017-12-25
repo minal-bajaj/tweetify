@@ -9,10 +9,10 @@ Docker image is available publically @ minalbajaj/tweetify. Use following comman
 
 docker run -d -p 80:8080 -p 443:8443 minalbajaj/tweetify
 
-If you want to create image locally with different oauth credentials. Please follow below steps.
-        1. Unzip "TwitterAnalyzer.zip" and provide oauth credentials in "src/main/resources/twitter4j.properties" file.
-        2. Run createImage.sh script to create docker image. This step will create docker image with tag "tweetify".
-        3. Run docker image with following command - "docker run -d -p 80:8080 -p 443:8443 minalbajaj/tweetify"
+If you want to create image locally with different oauth credentials. Please follow below steps.<br>
+        1. Unzip "TwitterAnalyzer.zip" and provide oauth credentials in "src/main/resources/twitter4j.properties" file.<br>
+        2. Run createImage.sh script to create docker image. This step will create docker image with tag "tweetify".<br>
+        3. Run docker image with following command - "docker run -d -p 80:8080 -p 443:8443 minalbajaj/tweetify"<br>
 
 If all the above steps are exeuted successfully then application is accessible at localhost:80
 
